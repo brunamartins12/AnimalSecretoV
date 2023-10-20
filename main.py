@@ -12,4 +12,4 @@ while palpite != animal_secreto:
         print("game over!")
         break
     elif palpite == animal_secreto:
-        print("você acertou!!")
+        print("você acertou!!!")
