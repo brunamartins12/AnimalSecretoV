@@ -1,4 +1,4 @@
-print("hello world")
+print("hello world!")
 animal_secreto = "Mamute"
 
 dicas = ['grande', 'come mato', 'tem tromba', 'aparece no filme do Era do gelo']
